@@ -1,4 +1,4 @@
-package com.datastructures.code;
+package com.datastructures.arrays;
 
 public class PrintSubArrays {
 
